@@ -1,5 +1,5 @@
-# Deep_Air
-Final project ESADE MSc Business Analytics.
+# Deep Air
+## Final project ESADE MSc Business Analytics.
 
 
 Air pollution is a structural problem that sometimes can be episodic. Today there are several ways to measure air pollution. It can be described through air stations - points with high accuracy - or through satellite sense - e.g., S5p/tropomi with 5 km resolution. It can be described through simulations or even Land Use Regressions models (LURs) - e.g., Lobelia/isglobal.
